@@ -1,0 +1,7 @@
+{
+  "name": "ContractManager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
